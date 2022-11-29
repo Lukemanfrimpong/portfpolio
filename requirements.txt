@@ -1,10 +1,14 @@
-certifi==2020.12.5
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ek9yztvu3/croot/certifi_1665076692562/work/certifi
+certifi==2022.9.24
+charset-normalizer==2.1.1
 click @ file:///opt/concourse/worker/volumes/live/2d66025a-4d79-47c4-43be-6220928b6c82/volume/click_1646056610594/work
 Flask @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8am4k38yjk/croots/recipe/flask_1658870771936/work
 gunicorn==20.1.0
+heroku==0.1.4
+idna==3.4
 itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 Jinja2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6adj7x0ejx/croot/jinja2_1666908137966/work
 MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d4a9444f-bd4c-4043-b47d-cede33979b0fve7bm42r/croots/recipe/markupsafe_1654597878200/work
+python-dateutil==1.5
+requests==2.28.1
+urllib3==1.26.13
 Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
-wincertstore==0.2
